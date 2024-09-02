@@ -49,25 +49,33 @@ The bot should now be running and ready to receive messages from Telegram.
 send /start to bot in telegram and continue interactin with it.
 
 Start to bot:
+
 ![Start_page.jpg](project_media_file/Start_page.jpg)
 
 Greetings from the bot:
+
 ![Start2_page.jpg](project_media_file/Start2_page.jpg)
 
 Choose a friend:
+
 ![Hello_page.jpg](project_media_file/Hello_page.jpg)
 
 When the bot does not understand you, it will say so:
+
 ![dnt_understand_page.jpg](project_media_file/dnt_understand_page.jpg)
 
 You can choose what you will play with a friend:
+
 ![friend_page.jpg](project_media_file/friend_page.jpg)
 
 He also needs to eat))):
+
 ![game_page.jpg](project_media_file/game_page.jpg)
 
 And the bot knows how to joke too:
+
 ![Joke_page.jpg](project_media_file/Joke_page.jpg)
 
 Everyone gets tired:
+
 ![sleep_page.jpg](project_media_file/sleep_page.jpg)
