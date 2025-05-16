@@ -46,7 +46,7 @@ The bot should now be running and ready to receive messages from Telegram.
 
 ## Usage
 
-send /start to bot in telegram and continue interactin with it.
+send /start to bot in telegram and continue interacting with it.
 
 ### Start to bot:
 
