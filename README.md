@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 4. Create a new file named `.env` in the project root directory and add the following lines, providing corresponding values:
 
 ```
-ADMIN_BOT_TOKEN=
+ADMIN_BOT_TOKEN=your_token
 ```
 
 
