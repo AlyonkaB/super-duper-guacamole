@@ -38,7 +38,7 @@ ADMIN_BOT_TOKEN=
 To run the bot, execute the following command in the project root directory:
 
 ```bash
-python bot.py
+python start_bot.py
 ```
 
 
